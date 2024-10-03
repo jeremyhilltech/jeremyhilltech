@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy, a budding <a href="https://linkedin.com/in/jeremyhilltech">IT & Cybersecurity Professional</a> 👨‍💻</h1>
+<h1>Hi, I'm Jeremy, an enthusiastic and committed <a href="https://linkedin.com/in/jeremyhilltech">IT & Cybersecurity Professional</a> 👨‍💻</h1>
 
 <h2>💻 Information Technology Projects 💻</h2>
 
