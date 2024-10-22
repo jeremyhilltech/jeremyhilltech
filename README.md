@@ -3,12 +3,10 @@
 <h2>💻 Information Technology Projects 💻</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jeremyhilltech/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jeremyhilltech/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jeremyhilltech/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jeremyhilltech/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jeremyhilltech/azure-network-protocols)
+  - [Active Directory Laboratory](https://github.com/jeremyhilltech/Active-Directory-Laboratory)
+
+- <b>Macbook Pro GPU Delete</b>
+  - [Reprogramming GMUX on 2011 Macbook Pro after discrete GPU failure](https://www.youtube.com/watch?v=v_IpS5hIQCA)
 
 <h2>🤳Connect with me:</h2>
 
