@@ -2,7 +2,7 @@
 
 <h2>💻 Information Technology Projects 💻</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Active Directory</b>
   - [Active Directory Laboratory](https://github.com/jeremyhilltech/Active-Directory-Laboratory)
 
 - <b>Macbook Pro GPU Delete</b>
