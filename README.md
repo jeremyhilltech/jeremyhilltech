@@ -3,7 +3,7 @@
 <h2>💻 Information Technology Projects 💻</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Laboratory](https://github.com/jeremyhilltech/Active-Directory-Laboratory)
+  - [Microsoft Active Directory - An Introductory Lab In The Cloud](https://github.com/jeremyhilltech/Microsoft-Active-Directory--An-Introductory-Lab-In-The-Cloud)
 
 - <b>Macbook Pro GPU Delete</b>
   - [Reprogramming GMUX On 2011 Macbook Pro After Discrete GPU Failure](https://www.youtube.com/watch?v=v_IpS5hIQCA)
