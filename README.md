@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy, an enthusiastic an <a href="https://linkedin.com/in/jeremyhilltech">IT Professional</a> 👨‍💻</h1>
+<h1>Hi, I'm Jeremy, an enthusiastic <a href="https://linkedin.com/in/jeremyhilltech">IT Professional</a> 👨‍💻</h1>
 
 <h2>💻 Information Technology Projects 💻</h2>
 
