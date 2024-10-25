@@ -6,7 +6,7 @@
   - [Active Directory Laboratory](https://github.com/jeremyhilltech/Active-Directory-Laboratory)
 
 - <b>Macbook Pro GPU Delete</b>
-  - [Reprogramming GMUX on 2011 Macbook Pro after discrete GPU failure](https://www.youtube.com/watch?v=v_IpS5hIQCA)
+  - [Reprogramming GMUX On 2011 Macbook Pro After Discrete GPU Failure](https://www.youtube.com/watch?v=v_IpS5hIQCA)
 
 - <b>Coding Projects</b>
   - [Python Caesar Cipher](https://github.com/jeremyhilltech/Python-Caesar-Cipher)
