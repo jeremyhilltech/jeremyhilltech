@@ -8,6 +8,10 @@
 - <b>Macbook Pro GPU Delete</b>
   - [Reprogramming GMUX on 2011 Macbook Pro after discrete GPU failure](https://www.youtube.com/watch?v=v_IpS5hIQCA)
 
+- <b>Coding Projects</b>
+  - Simple Python Caesar Cipher
+  - Python Password Complexity Checker
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Jeremy | LinkedIn" width="70px" src="https://i.imgur.com/RIefvk9.png" />][linkedin]
