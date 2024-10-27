@@ -8,7 +8,7 @@
 - <b>Macbook Pro GPU Delete</b>
   - [Reprogramming GMUX On 2011 Macbook Pro After Discrete GPU Failure](https://www.youtube.com/watch?v=v_IpS5hIQCA)
 
-<h2>Cybersecurity Projects</h2>
+<h2>🛡️ Cybersecurity Projects 🛡️</h2>
 
 - <b>Coding</b>
   - [Python Caesar Cipher](https://github.com/jeremyhilltech/Python-Caesar-Cipher)
