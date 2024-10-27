@@ -6,7 +6,7 @@
   - [Microsoft Active Directory - An Introductory Lab In The Cloud](https://github.com/jeremyhilltech/Microsoft-Active-Directory--An-Introductory-Lab-In-The-Cloud)
 
 - <b>Macbook Pro GPU Delete</b>
-  - [Reprogramming GMUX On 2011 Macbook Pro After Discrete GPU Failure](https://www.youtube.com/watch?v=v_IpS5hIQCA)
+  - [Reprogramming GMUX On 2011 Macbook Pro After Discrete GPU Failure](https://github.com/jeremyhilltech/Reprogramming-GMUX-On-2011-Macbook-Pro-After-Discrete-GPU-Failure)
 
 <h2>🛡️ Cybersecurity Projects 🛡️</h2>
 
