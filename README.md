@@ -16,6 +16,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Jeremy | LinkedIn" width="70px" src="https://i.imgur.com/RIefvk9.png" />][linkedin]
+[<img align="left" alt="Jeremy | LinkedIn" width="140px" src="https://i.imgur.com/RIefvk9.png" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/jeremyhilltech
