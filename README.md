@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jeremy, a growing <a href="https://linkedin.com/in/jeremyhilltech">IT & Cybersecurity Professional</a> 👨‍💻</h1>
 
-<h2>[Download My Resume](https://github.com/jeremyhilltech/Microsoft-Active-Directory--An-Introductory-Lab-In-The-Cloud)</h2>
+<h2> [Download My Resume](https://github.com/jeremyhilltech/Microsoft-Active-Directory--An-Introductory-Lab-In-The-Cloud)</h2>
 
 <h2>💻 Information Technology Projects 💻</h2>
 
