@@ -1,7 +1,5 @@
 <h1>Hi, I'm Jeremy, a growing <a href="https://linkedin.com/in/jeremyhilltech">IT & Cybersecurity Professional</a> 👨‍💻</h1>
 
-## [Download My Resum&#233; Here](insert link here)
-
 <h2>💻 Information Technology Projects 💻</h2>
 
 ### **Active Directory**
