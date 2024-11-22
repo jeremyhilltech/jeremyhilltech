@@ -1,4 +1,6 @@
-<h1>Hi, I'm Jeremy, a growing <a href="https://linkedin.com/in/jeremyhilltech">IT & Cybersecurity Professional</a> 👨‍💻</h1>
+<h1>Hi, I'm Jeremy, an <a href="https://linkedin.com/in/jeremyhilltech">IT & Cybersecurity Professional</a> 👨‍💻</h1>
+
+<h3> I am an empathetic and detail-oriented IT and cybersecurity professional committed to protecting people and their data. My mission is to reduce human suffering through the responsible use of technology. My strengths include clear communication, problem-solving, leadership, and a strong work ethic. I contribute to the bottom line through continuous upskilling, investing in my team, and delivering exceptional service.</h3>
 
 <h2>💻 Information Technology Projects 💻</h2>
 
