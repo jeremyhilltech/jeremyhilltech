@@ -12,7 +12,7 @@
 
 <h2>🛡️ Cybersecurity Projects 🛡️</h2>
 
-* ### **Coding**
+### **Coding**
   - ### [Python Caesar Cipher](https://github.com/jeremyhilltech/Python-Caesar-Cipher)
   - ### [Python Password Complexity Checker](https://github.com/jeremyhilltech/Python-Password-Complexity-Checker)
 
