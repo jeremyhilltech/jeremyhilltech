@@ -16,7 +16,7 @@
   - ### [Python Caesar Cipher](https://github.com/jeremyhilltech/Python-Caesar-Cipher)
   - ### [Python Password Complexity Checker](https://github.com/jeremyhilltech/Python-Password-Complexity-Checker)
 
-### **Governance, Risk, and Compliance
+### **Governance, Risk, and Compliance**
   - ### [Botium Toys Security Audit (A Google Cybersecurity Exercise)]
 
 <h2> 📳 Connect with me 📳 </h2>
