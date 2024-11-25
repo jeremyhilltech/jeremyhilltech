@@ -17,7 +17,7 @@
   - ### [Python Password Complexity Checker](https://github.com/jeremyhilltech/Python-Password-Complexity-Checker)
 
 ### **Governance, Risk, and Compliance**
-  - ### [Botium Toys Security Audit (A Google Cybersecurity Exercise)]
+  - ### [Botium Toys Security Audit (A Google Cybersecurity Exercise)](https://github.com/jeremyhilltech/Botium-Security-Audit/tree/main)
 
 <h2> 📳 Connect with me 📳 </h2>
 
