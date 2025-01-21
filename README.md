@@ -10,6 +10,9 @@
 ### **Macbook Pro GPU Delete**
   - ### [Reprogramming GMUX On 2011 Macbook Pro After Discrete GPU Failure](https://github.com/jeremyhilltech/Reprogramming-GMUX-On-2011-Macbook-Pro-After-Discrete-GPU-Failure)
 
+### **Managing File and Directory Permissions in Linux**
+  - ### [Managing File and Directory Permissions in Linux](https://github.com/jeremyhilltech/Managing-File-and-Directory-Permissions-in-Linux/blob/main/README.md)
+
 <h2>🛡️ Cybersecurity Projects 🛡️</h2>
 
 ### **Coding**
