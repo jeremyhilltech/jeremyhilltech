@@ -13,6 +13,8 @@
 ### **Linux/Bash**
   - ### [Managing File and Directory Permissions in Linux](https://github.com/jeremyhilltech/Managing-File-and-Directory-Permissions-in-Linux/blob/main/README.md)
 
+---
+
 <h2>🛡️ Cybersecurity Projects 🛡️</h2>
 
 ### **Coding**
