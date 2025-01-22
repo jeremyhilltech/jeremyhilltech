@@ -4,7 +4,7 @@
 
 ---
 
-<h2>💻 Information Technology Projects 💻</h2>
+<h2>💻 Information Technology Labs 💻</h2>
 
 ### **Active Directory**
   - ### [Microsoft Active Directory - An Introductory Lab In The Cloud](https://github.com/jeremyhilltech/Microsoft-Active-Directory--An-Introductory-Lab-In-The-Cloud)
@@ -17,7 +17,7 @@
 
 ---
 
-<h2>🛡️ Cybersecurity Projects 🛡️</h2>
+<h2>🛡️ Cybersecurity Labs 🛡️</h2>
 
 ### **Coding**
   - ### [Python Caesar Cipher](https://github.com/jeremyhilltech/Python-Caesar-Cipher)
