@@ -9,7 +9,7 @@
 ### **Active Directory**
   - ### [Microsoft Active Directory - An Introductory Lab In The Cloud](https://github.com/jeremyhilltech/Microsoft-Active-Directory--An-Introductory-Lab-In-The-Cloud)
 
-### **Macbook Pro GPU Delete**
+### **Macbook Pro GPU Delete** (Video)
   - ### [Reprogramming GMUX On 2011 Macbook Pro After Discrete GPU Failure](https://github.com/jeremyhilltech/Reprogramming-GMUX-On-2011-Macbook-Pro-After-Discrete-GPU-Failure)
 
 ### **Linux/Bash**
