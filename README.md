@@ -13,7 +13,7 @@
   - ### [Reprogramming GMUX On 2011 Macbook Pro After Discrete GPU Failure](https://github.com/jeremyhilltech/Reprogramming-GMUX-On-2011-Macbook-Pro-After-Discrete-GPU-Failure)
 
 ### **Linux/Bash**
-  - ### [Managing File and Directory Permissions in Linux](https://github.com/jeremyhilltech/Managing-File-and-Directory-Permissions-in-Linux/blob/main/README.md)
+  - ### [Managing File and Directory Permissions in Linux](https://github.com/jeremyhilltech/Managing-File-and-Directory-Permissions-in-Linux)
 
 ---
 
