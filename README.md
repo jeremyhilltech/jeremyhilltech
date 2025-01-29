@@ -15,6 +15,9 @@
 ### **Linux/Bash**
   - ### [Managing File and Directory Permissions in Linux](https://github.com/jeremyhilltech/Managing-File-and-Directory-Permissions-in-Linux)
 
+### **SQL**
+  - ### [Exploring SQL - Basic Navigation and Filtering](https://github.com/jeremyhilltech/Exploring-SQL-Basic-Navigation-and-Filtering).
+
 ---
 
 <h2>🛡️ Cybersecurity Labs 🛡️</h2>
