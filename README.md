@@ -31,8 +31,7 @@
 
 <h2>🧠 Learning Aids 🧠</h2>
 
-### **The OSI and TCP/IP Model Map**
-  - ### [OSI and TCP/IP Model Map)](https://github.com/jeremyhilltech/OSI-TCP-IP-Model-Map))
+  - ### [OSI and TCP/IP Model Map)](https://github.com/jeremyhilltech/OSI-TCP-IP-Model-Map)
 
 <h2>📳 Connect with me 📳</h2>
 
