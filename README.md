@@ -29,7 +29,12 @@
 ### **Governance, Risk, and Compliance**
   - ### [Botium Toys Security Audit (A Google Cybersecurity Exercise)](https://github.com/jeremyhilltech/Botium-Security-Audit/tree/main)
 
-<h2> 📳 Connect with me 📳 </h2>
+<h2>🧠 Learning Aids 🧠</h2>
+
+### **The OSI and TCP/IP Model Map**
+  - ### [OSI and TCP/IP Model Map)](https://github.com/jeremyhilltech/OSI-TCP-IP-Model-Map))
+
+<h2>📳 Connect with me 📳</h2>
 
 [<img align="left" alt="Jeremy | LinkedIn" width="140px" src="https://i.imgur.com/RIefvk9.png" />][linkedin]
 
