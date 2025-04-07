@@ -5,13 +5,13 @@
 ---
 <h2>💻 Certifications 💻</h2>
 
-*** ISC2 Certified in Cybersecurity - Feb 2024
+### ISC2 Certified in Cybersecurity - Feb 2024
 
-*** CourseCareers Practical Help Desk Professional - November 2024
+### CourseCareers Practical Help Desk Professional - November 2024
 
-*** TCM Security Practical Help Desk Associate (Expected 4/10/25)
+### TCM Security Practical Help Desk Associate (Expected 4/10/25)
 
-*** CompTIA Security+ & Google Cybersecurity Professional Dual Certification Credential (Expected June 2025)
+### CompTIA Security+ & Google Cybersecurity Professional Dual Certification Credential (Expected June 2025)
 
 ---
 
