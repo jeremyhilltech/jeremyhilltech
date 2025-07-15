@@ -9,9 +9,9 @@
 
 ### CourseCareers Practical Help Desk Professional - November 2024
 
-### TCM Security Practical Help Desk Associate (Expected 4/10/25)
+### TCM Security Practical Help Desk Associate (Expected 8/15/25)
 
-### CompTIA Security+ & Google Cybersecurity Professional Dual Certification Credential (Expected June 2025)
+### CompTIA Security+ & Google Cybersecurity Professional Dual Certification Credential (Expected October 2025)
 
 ---
 
